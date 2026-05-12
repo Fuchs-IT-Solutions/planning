@@ -1,53 +1,51 @@
-# Compliance & Security Architect — Lernbasis
+# Compliance & Security — Wissensbasis
 
-**Ziel:** Übergang von Senior Developer zu Compliance & Security Architect mit Expertise in **NIS2**, **ISO 27001** und **EU AI Act** in 12 Wochen.
-
-## 📚 Lernphasen
-
-### Phase 1: Wissensaufbau (Wochen 1-6)
-Grundlagen in Compliance-Frameworks, Security Standards und Architektur-Patterns.
-
-- [NIS2 Directive](learning/NIS2.md)
-- [ISO 27001:2022](learning/ISO27001.md)
-- [EU AI Act](learning/EU-AI-Act.md)
-- [Security Patterns & Best Practices](learning/Security-Patterns.md)
-
-### Phase 2: Portfolio-Projekt (Wochen 7-10)
-Praktische Umsetzung: **Compliance-Driven Microservices Architecture** auf GitHub.
-
-- Spring Boot Microservices (Auth, Data, AI Service)
-- Kubernetes Security & RBAC
-- PostgreSQL mit Row-Level Security
-- OpenTelemetry & Audit Logging
-- CI/CD mit Security Scanning
-
-[→ Projekt-Details](portfolio/microservices-project.md)
-
-### Phase 3: Marketing & Outreach (Wochen 11-12)
-LinkedIn-Optimierung und Kontakt mit Zielunternehmen.
+Praktische Sammlung von Links, Dokumenten und Kernwissen zu NIS2, ISO 27001, EU AI Act und Security Patterns.
 
 ---
 
-## 🔗 Ressourcen
+## 📚 Themen
 
-Alle Lernmaterialien, Tools und offiziellen Quellen: [Ressourcen](resources/links.md)
+### [NIS2 Directive](NIS2/resources.md)
+EU Network & Information Security Directive 2 — gültig ab Januar 2025.
+- [Resources & Links](NIS2/resources.md)
+- [Key Requirements](NIS2/key-requirements.md)
+
+### [ISO 27001:2022](ISO27001/resources.md)
+Internationaler Standard für Information Security Management Systems.
+- [Resources & Links](ISO27001/resources.md)
+- [Key Requirements](ISO27001/key-requirements.md)
+
+### [EU AI Act](EU-AI-Act/resources.md)
+Regulation (EU) 2024/1689 — KI-Regulierung.
+- [Resources & Links](EU-AI-Act/resources.md)
+- [Key Requirements](EU-AI-Act/key-requirements.md)
+
+### [Security Patterns](Security-Patterns/resources.md)
+Zero Trust, Defense in Depth, Authentication & Authorization.
+- [Resources & Links](Security-Patterns/resources.md)
+- [Key Requirements](Security-Patterns/key-requirements.md)
 
 ---
 
-## 📊 Fortschritt
+## 🔍 Wie du diese Wissensbasis nutzt
 
-Dein Learning-Fortschritt: [Fortschritt tracken](progress/fortschritt.md)
+**Lokal bearbeiten:**
+```bash
+# Neue Links hinzufügen
+vim docs/NIS2/resources.md
+git add docs/
+git commit -m "Add NIS2 resources"
+git push
+```
+
+**Im Browser bearbeiten (einfacher):**
+1. GitHub Repo öffnen → `/docs/NIS2/resources.md`
+2. Klick Edit (Bleistift-Icon)
+3. Bearbeite direkt
+4. Commit & Save
+5. Website wird automatisch aktualisiert (1-2 Min)
 
 ---
 
-## 🎯 Nächste Schritte
-
-1. **Diese Woche**: Phase 1 starten mit NIS2-Grundlagen
-2. **Notizen machen** in den entsprechenden Markdown-Dateien
-3. **Fortschritt updaten** in `progress/fortschritt.md`
-
----
-
-**Weitere Informationen:**
-- [Detaillierter 3-Monats-Plan](../3-Monats-Plan-Compliance-Architect.md)
-- [Projekt-Setup mit Claude Code](../CLAUDE.md)
+**Zuletzt aktualisiert:** 2026-05-12
