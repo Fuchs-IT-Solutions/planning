@@ -17,3 +17,7 @@
 ## [Security Patterns](Security-Patterns/resources.md)
 - [Resources & Links](Security-Patterns/resources.md)
 - [Key Requirements](Security-Patterns/key-requirements.md)
+
+## [Enterprise Architecture](Architecture/resources.md)
+- [Resources & Standards](Architecture/resources.md)
+- [Key Concepts](Architecture/key-concepts.md)
