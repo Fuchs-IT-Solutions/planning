@@ -8,8 +8,8 @@
 
 ## ENISA (EU Cybersecurity Authority)
 
-- [ENISA AI Security Recommendations](https://www.enisa.europa.eu/publications) — Best Practices für sichere KI
-- [ENISA LLM Security](https://www.enisa.europa.eu/) — Large Language Model Security Guidance
+- [ENISA AI Security Recommendations](https://www.enisa.europa.eu/publications/guidelines-for-ai-security) — Best Practices für sichere KI
+- [ENISA AI Governance](https://www.enisa.europa.eu/topics/ai-security) — AI Act Compliance Guidance
 
 ## OWASP — Security für LLMs
 
@@ -17,11 +17,11 @@
 - [OWASP LLM GitHub](https://github.com/OWASP/www-project-llm-top-10) — Code & Tools
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) — Klassische Web-Sicherheit
 
-## Training & Zertifizierung
+## Training & Learning
 
-- [Coursera — AI Ethics & Governance](https://www.coursera.org/) — Online-Kurs
-- [DeepLearning.AI — Short Courses](https://www.deeplearning.ai/) — LLM & Prompt Engineering
-- [Fast.ai — AI Ethics](https://www.fast.ai/) — Praktische AI-Kurse
+- [DeepLearning.AI — Short Courses](https://www.deeplearning.ai/short-courses/) — LLM & Prompt Engineering
+- [Fast.ai — Practical Deep Learning](https://www.fast.ai/) — Praktische AI-Kurse
+- [MIT AI Policy for the World](https://mitsloan.mit.edu/ai) — AI Policy & Governance
 
 ## LLM Providers & Security
 
@@ -29,15 +29,17 @@
 - [Anthropic Constitution AI](https://www.anthropic.com/research/constitution-ai) — Anthropic Safety Research
 - [Google DeepMind Safety](https://deepmind.google/discover/blog/) — Google Safety Research
 
-## Risk Assessment Tools
+## Risk Assessment & Compliance
 
-- [AI Act Risk Assessment Template](https://digital-strategy.ec.europa.eu/) — EU-Vorlage
-- [NIST AI RMF (Risk Management Framework)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf) — USA Standard
+- [NIST AI RMF (Risk Management Framework)](https://airc.nist.gov/AI_RMF_Knowledge_Base/) — USA Standard für AI Governance
+- [EU AI Act Compliance Checklist](https://digital-strategy.ec.europa.eu/en/policies/eu-artificial-intelligence-act) — Offizielle EU Guidance
+- [High-Risk AI Systems Assessment](https://www.enisa.europa.eu/topics/ai-security) — ENISA Bewertung
 
 ## Bias & Fairness
 
-- [AI Fairness 360 (IBM)](https://aif360.mybluemix.net/) — Open Source Toolkit
-- [Fairness Indicators (Google)](https://ai.google/tools/fairness-indicators/) — Bias Detection
+- [AI Fairness 360 (IBM Open Source)](https://github.com/Trusted-AI/AIF360) — Open Source Bias Detection
+- [Google AI Fairness Tools](https://github.com/google/fairness-indicators) — Fairness Indicators
+- [Fairlearn (Microsoft)](https://fairlearn.org/) — Fairness & Accountability Library
 
 ---
 

@@ -14,8 +14,8 @@
 ## Learning Resources
 
 - [Coursera — ISO 27001 Essentials](https://www.coursera.org/learn/iso-27001-essentials) — Online-Kurs
-- [Udemy — ISO 27001:2022 Complete](https://www.udemy.com/) — Praktischer Kurs
-- [LinkedIn Learning — ISO 27001](https://www.linkedin.com/learning/) — Video-Training
+- [LinkedIn Learning — Information Security](https://www.linkedin.com/learning/search?keywords=ISO%2027001) — Video-Training
+- [ISOIEC 27001 Zertifizierungskurse](https://www.apmg-international.com/en/qualifications/qualifications-offer/cisa) — Certified Auditor
 
 ## Frameworks & Guidance
 
@@ -23,16 +23,17 @@
 - [CIS Controls](https://www.cisecurity.org/controls) — Security Best Practices
 - [ISO 27035 — Incident Management](https://www.iso.org/standard/60803.html) — Incident Response Standard
 
-## Industry-Specific
+## Branchenspezifisch
 
 - [ISO 27018 — Cloud PII Protection](https://www.iso.org/standard/76559.html) — Für Cloud Services
-- [ISO 27019 — Energy Sector](https://www.iso.org/standard/75652.html) — Energie-spezifisch
-- [ISO 27035 — Healthcare](https://www.iso.org/standard/60803.html) — Gesundheitswesen
+- [ISO 27019 — Energy Sector](https://www.iso.org/standard/75700.html) — Energie-spezifisch
+- [GDPR für ISO 27001](https://gdpr-info.eu/) — Datenschutz kombiniert mit ISMS
 
-## Audit & Compliance Tools
+## Audit & Compliance
 
-- [Audit Checklists](https://www.iso.org/) — Vorbereitung auf Audits
-- [Risk Assessment Templates](https://www.iso.org/) — Risikobewertungs-Vorlagen
+- [ISO 27001 Audit Checklisten](https://www.iso.org/standard/82875.html) — Selbstbewertung
+- [ISMS Implementation Roadmap](https://www.iso27001academy.com/) — ISO 27001 Academy
+- [Zertifizierungsvorbereitung](https://www.apmg-international.com/) — APMG International
 
 ---
 

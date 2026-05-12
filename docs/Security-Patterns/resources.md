@@ -62,9 +62,9 @@
 
 ## Threat Modeling
 
-- [OWASP Threat Modeling](https://owasp.org/www-community/Threat_Modeling) — Threat Modeling Guide
-- [STRIDE Methodology](https://en.wikipedia.org/wiki/STRIDE_(security)) — Threat Classification
-- [Attack Trees](https://en.wikipedia.org/wiki/Attack_tree) — Visual Threat Analysis
+- [OWASP Threat Modeling Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html) — Threat Modeling Guide
+- [STRIDE Methodology](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats) — Threat Classification (Microsoft)
+- [OWASP Threat Dragon](https://www.threatdragon.com/) — Visual Threat Modeling Tool
 
 ---
 
