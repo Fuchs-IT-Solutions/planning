@@ -18,14 +18,14 @@
 
 ## Branchenspezifisch
 
-- [NIS2 für Telekommunikation](https://www.bsi.bund.de/) — Telco-spezifische Anforderungen
-- [NIS2 für Energy Sector](https://www.enisa.europa.eu/) — Energie/Wasser
-- [NIS2 für Banking & Finance](https://www.enisa.europa.eu/) — Finanzsektor
+- [NIS2 für Telekommunikation — BSI Leitfaden](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheit/NIS2/nis2_node.html) — Telco-spezifische Anforderungen
+- [NIS2 für Energy & Wasser — ENISA](https://www.enisa.europa.eu/topics/nis-directive) — Kritische Infrastruktur
+- [NIS2 für Banking — EBA Guidelines](https://www.eba.europa.eu/) — European Banking Authority
 
-## Training & Zertifizierung
+## Training & Ressourcen
 
-- [Coursera — NIS2 Essentials](https://www.coursera.org/) — Online-Kurs
-- [SANS — NIS2 Training](https://www.sans.org/) — Enterprise Training
+- [ENISA NIS2 Webinars](https://www.enisa.europa.eu/events) — Kostenlose Trainings
+- [BSI NIS2 Workshop-Materialien](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheit/NIS2/nis2_node.html) — Deutsche Ressourcen
 
 ## Vergleiche & Mappings
 
